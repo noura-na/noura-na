@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi there, I'm Noura 👋🏻
+=
+#### About Me:👩‍💻
+=
+👩‍🎓 I'm a third year data science and AI student at Princess Sumaya University for Technology.
+🔭 I'm passionate about science and technology. 
+🌱 I'm currently learning more about data preprocessing.
+=
+💬 Lets connect on Linkedin: https://www.linkedin.com/in/noura-abdelhafez/
 <!--
 **noura-na/noura-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
