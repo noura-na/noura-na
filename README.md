@@ -3,8 +3,6 @@
 👩‍🎓 I'm a third year data science and AI student at Princess Sumaya University for Technology.
 
 🔭 I'm passionate about science and technology. 
-
-🌱 I'm currently learning more about data preprocessing.
 ***
 💬 Lets connect on Linkedin: https://www.linkedin.com/in/noura-abdelhafez/
 
@@ -21,6 +19,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 🌱 I'm currently learning more about data preprocessing.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
