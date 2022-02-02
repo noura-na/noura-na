@@ -4,8 +4,7 @@
 
 🔭 I'm passionate about science and technology. 
 ***
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="noura-abdelhafez" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://jo.linkedin.com/in/noura-abdelhafez?trk=profile-badge">Noura A.</a></div>
-💬 Lets connect on Linkedin: https://www.linkedin.com/in/noura-abdelhafez/
+💬 Lets connect on Linkedin: https://www.linkedin.com/in/nouraabdelhafez/
 <!--
 **noura-na/noura-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
