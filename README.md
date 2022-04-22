@@ -1,6 +1,6 @@
 ## Hi there, I'm Noura 👋
 
-👩‍🎓 I'm a third year data science and AI student at Princess Sumaya University for Technology.
+👩‍🎓 I'm a final year data science and AI student at Princess Sumaya University for Technology.
 
 🔭 I'm passionate about science and technology. 
 ***
