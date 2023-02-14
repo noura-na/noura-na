@@ -1,10 +1,16 @@
 ## Hi there 👋
 
-👩‍🎓 I'm a final year data science and AI student at Princess Sumaya University for Technology.
+<div align="left">
+  <a href="https://www.linkedin.com/in/noura-abdelhafez/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
+</div>
 
-🔭 I'm passionate about science and technology. 
-***
-💬 Lets connect on Linkedin: https://www.linkedin.com/in/nouraabdelhafez/
+<br />
+
 <!--
 **noura-na/noura-na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
